@@ -5,6 +5,13 @@ void main(){
     print(contador);
     contador++;
   }
+  print(" ");
 
-  
+  contador = 0;
+
+  do{
+    print(contador);
+    contador++;
+  }while(contador <= 10);
+
 }
