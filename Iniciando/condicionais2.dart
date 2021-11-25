@@ -8,5 +8,4 @@ void main(){
   }else{
     print("Não pode viajar");
   }
-
 }
