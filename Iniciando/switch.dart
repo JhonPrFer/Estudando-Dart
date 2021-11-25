@@ -25,7 +25,7 @@ void main(){
       print("Sábado");
       break;
     default:
-      print("Dia da seman não existe use de 1 a 7");
+      print("Dia da semana não existe use de 1 a 7");
       break;
   }
 }
